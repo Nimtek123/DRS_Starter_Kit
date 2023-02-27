@@ -24,7 +24,12 @@
 
 
 ## Getting started
-Open the index.html file to run the form post. 
+
+run the command
+```
+docker-compose up -d
+```
+Open the index.html file to run the form get. 
 Enter the Objet ID in the field provided and a response will be returned if valid or not
 
 
